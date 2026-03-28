@@ -2,7 +2,7 @@
 # Assignment 2 – Interactive Features
 
 This project is an improved version of my personal portfolio website from Assignment 1.  
-It focuses on adding interactive features, dynamic behavior, and better user experience using JavaScript.
+It focuses on adding interactive features, dynamic behavior, and better user experience.
 
 ## Features
 - Responsive design for desktop, tablet, and mobile
